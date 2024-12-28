@@ -40,10 +40,10 @@ Check out the live demo: [Coffee Website Demo](https://coffee-cafesite.netlify.a
 3. Run the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Open your browser and navigate to `http://localhost:5174/`.
 
 ## File Structure
 
