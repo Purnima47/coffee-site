@@ -135,7 +135,7 @@ const Footer = () => {
                                 <p className='mb-3'>
                                     Greater Noida, India
                                 </p>
-                                <p>+91 6392146045</p>
+                                <p>+91 XXXXXXXXX</p>
 
                                 {/* social links */}
                                 <div className='space-x-3 mt-6 grid-flow-row grid-rows-1'>
