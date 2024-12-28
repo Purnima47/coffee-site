@@ -2,6 +2,9 @@
 
 Welcome to the Coffee Website repository! This project is a beautifully designed and user-friendly website dedicated to showcasing coffee products, sharing coffee-related content, and providing a delightful browsing experience for coffee enthusiasts.
 
+# Screenshot
+![Screenshot 2024-12-29 040812](https://github.com/user-attachments/assets/88d2e5bf-c349-4451-bf8e-3fd3b61b9432)
+
 ## Features
 
 - **Responsive Design:** Fully optimized for all devices, including desktops, tablets, and smartphones.
